@@ -26,10 +26,6 @@ To uncover key trends related to employee attrition, satisfaction, compensation,
 
 ---
 
----
-
-## 📈 Dashboard Preview
-
 ## 📈 Dashboard Preview
 
 ![HR Dashboard Preview](dashboard_preview.png)
